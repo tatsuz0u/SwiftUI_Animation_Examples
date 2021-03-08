@@ -8,4 +8,8 @@
 
 
 ## RadarWave
-<img src="https://user-images.githubusercontent.com/31207151/110299531-b8ac0980-8030-11eb-93c8-cdab4bb6c187.gif" width="400"></img>
+<div class="myvideo">
+  <video width="320" height="240" controls>
+     <source src="https://user-images.githubusercontent.com/31207151/110304364-7d143e00-8036-11eb-9ccc-a8a9aa9b8e37.mp4" type="video/mp4">
+  </video>
+</div>
